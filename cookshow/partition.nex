@@ -1,0 +1,9 @@
+#NEXUS
+begin sets;
+charset cytb = cytb.aln: 1-1140;
+charset r12S = r12S.aln: 1 -985;
+charset fes = fes.aln: 1 - 417;
+charset irbp1st = irbp.aln: 1-1275\3;
+charset irbp2nd = irbp.aln: 2-1275\3;
+charset irbp3rd = irbp.aln: 3-1275\3;
+end;
